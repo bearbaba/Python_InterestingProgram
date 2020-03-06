@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86c050a9-2c37-4eb2-ae96-64b38eb03b7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_plane.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_plane.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_sprite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/basketball.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plane.py" beforeDir="false" afterPath="$PROJECT_DIR$/plane.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +34,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\computer_language\Python_Study\Python_InterestringProgram\Python_plane\img" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="plane" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -79,22 +82,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="618" height="51" key="GridCell.Tab.0.bottom" timestamp="1583336981851">
+    <state width="1260" height="181" key="GridCell.Tab.0.bottom" timestamp="1583467896805">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="618" height="51" key="GridCell.Tab.0.bottom/0.31.1280.689@0.31.1280.689" timestamp="1583336981851" />
-    <state width="618" height="51" key="GridCell.Tab.0.center" timestamp="1583336981850">
+    <state width="1260" height="181" key="GridCell.Tab.0.bottom/0.31.1280.689@0.31.1280.689" timestamp="1583467896805" />
+    <state width="1260" height="181" key="GridCell.Tab.0.center" timestamp="1583467896805">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="618" height="51" key="GridCell.Tab.0.center/0.31.1280.689@0.31.1280.689" timestamp="1583336981850" />
-    <state width="618" height="51" key="GridCell.Tab.0.left" timestamp="1583336981850">
+    <state width="1260" height="181" key="GridCell.Tab.0.center/0.31.1280.689@0.31.1280.689" timestamp="1583467896805" />
+    <state width="1260" height="181" key="GridCell.Tab.0.left" timestamp="1583467896805">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="618" height="51" key="GridCell.Tab.0.left/0.31.1280.689@0.31.1280.689" timestamp="1583336981850" />
-    <state width="618" height="51" key="GridCell.Tab.0.right" timestamp="1583336981850">
+    <state width="1260" height="181" key="GridCell.Tab.0.left/0.31.1280.689@0.31.1280.689" timestamp="1583467896805" />
+    <state width="1260" height="181" key="GridCell.Tab.0.right" timestamp="1583467896805">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="618" height="51" key="GridCell.Tab.0.right/0.31.1280.689@0.31.1280.689" timestamp="1583336981850" />
+    <state width="1260" height="181" key="GridCell.Tab.0.right/0.31.1280.689@0.31.1280.689" timestamp="1583467896805" />
     <state x="174" y="30" key="SettingsEditor" timestamp="1583333594339">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
