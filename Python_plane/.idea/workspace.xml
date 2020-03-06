@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86c050a9-2c37-4eb2-ae96-64b38eb03b7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/game_sprite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/basketball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode-janus-debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_sprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_sprite.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plane.py" beforeDir="false" afterPath="$PROJECT_DIR$/plane.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,13 +26,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1YcaC4hki6Y46f0WHBhUiG27tuU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -40,7 +46,28 @@
       <recent name="D:\computer_language\Python_Study\Python_InterestringProgram\Python_plane\img" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.game">
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_plane" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="plane" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_plane" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.game" />
         <item itemvalue="Python.plane" />
       </list>
     </recent_temporary>
@@ -81,30 +109,44 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1260" height="181" key="GridCell.Tab.0.bottom" timestamp="1583467896805">
+    <state width="1260" height="181" key="GridCell.Tab.0.bottom" timestamp="1583513178025">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="1260" height="181" key="GridCell.Tab.0.bottom/0.31.1280.689@0.31.1280.689" timestamp="1583467896805" />
-    <state width="1260" height="181" key="GridCell.Tab.0.center" timestamp="1583467896805">
+    <state width="1260" height="181" key="GridCell.Tab.0.bottom/0.31.1280.689@0.31.1280.689" timestamp="1583513178025" />
+    <state width="1260" height="181" key="GridCell.Tab.0.center" timestamp="1583513178025">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="1260" height="181" key="GridCell.Tab.0.center/0.31.1280.689@0.31.1280.689" timestamp="1583467896805" />
-    <state width="1260" height="181" key="GridCell.Tab.0.left" timestamp="1583467896805">
+    <state width="1260" height="181" key="GridCell.Tab.0.center/0.31.1280.689@0.31.1280.689" timestamp="1583513178025" />
+    <state width="1260" height="181" key="GridCell.Tab.0.left" timestamp="1583513178025">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="1260" height="181" key="GridCell.Tab.0.left/0.31.1280.689@0.31.1280.689" timestamp="1583467896805" />
-    <state width="1260" height="181" key="GridCell.Tab.0.right" timestamp="1583467896805">
+    <state width="1260" height="181" key="GridCell.Tab.0.left/0.31.1280.689@0.31.1280.689" timestamp="1583513178025" />
+    <state width="1260" height="181" key="GridCell.Tab.0.right" timestamp="1583513178025">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="1260" height="181" key="GridCell.Tab.0.right/0.31.1280.689@0.31.1280.689" timestamp="1583467896805" />
+    <state width="1260" height="181" key="GridCell.Tab.0.right/0.31.1280.689@0.31.1280.689" timestamp="1583513178025" />
     <state x="174" y="30" key="SettingsEditor" timestamp="1583333594339">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
     <state x="174" y="30" key="SettingsEditor/0.31.1280.689@0.31.1280.689" timestamp="1583333594339" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1583244537346">
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1583511496259">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.31.1280.689@0.31.1280.689" timestamp="1583244537346" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.31.1280.689@0.31.1280.689" timestamp="1583511496259" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/game.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
